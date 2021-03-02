@@ -1,9 +1,9 @@
 const FILES_TO_CACHE = [
-  "/"
-  // "/index.html",
-  // "/public/assets/css/styles.css",
-  // "/public/assets/icons/icon-192x192.png",
-  // "/assets/icons/icon-512x512.png"
+  "/",
+  "index.html",
+  "./assets/styles.css",
+  "./assets/icons/icon-192x192.png",
+  "./assets/icons/icon-512x512.png"
   
 ];
 
